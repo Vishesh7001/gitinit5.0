@@ -7,3 +7,6 @@ This project is created to learn Git and GitHub.
 - Commits
 - Branches
 - GitHub collaboration
+
+## Event Details
+This is my first feature branch.
